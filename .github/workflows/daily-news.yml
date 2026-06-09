@@ -1,0 +1,63 @@
+name: Daily Tech News Aggregator
+
+on:
+  schedule:
+    # 北京时间早上9点 = UTC 时间凌晨1点
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests python-dateutil
+      
+      - name: Collect news from all sources
+        run: python scripts/collect_news.py
+      
+      - name: Generate daily report
+        run: python scripts/generate_report.py
+      
+      - name: Commit and push report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ || true
+          git commit -m "📰 Daily Report - $(date +%Y-%m-%d)" || true
+          git push || true
+      
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "📰 Daily Tech News - $(date +%Y-%m-%d)"
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_FROM }}
+          body: |
+            早上好！🌅
+            
+            这是你的每日科技新闻日报。
+            
+            📊 今日汇总：
+            - Hacker News 热门
+            - Product Hunt 新品
+            - GitHub Trending 项目
+            - Tech Crunch 资讯
+            
+            完整报告：https://github.com/1001Beidou/dailynews-doodle/tree/main/reports
+          html_body: file://reports/daily_report.html
+          priority: high
