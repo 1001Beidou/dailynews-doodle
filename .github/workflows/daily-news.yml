@@ -9,8 +9,8 @@ on:
 jobs:
   collect-news:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -37,7 +37,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add reports/ || true
           git commit -m "📰 Daily Report - $(date +%Y-%m-%d)" || true
-          git push || true
+          git push origin main || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Send email notification
         uses: dawidd6/action-send-mail@v4
