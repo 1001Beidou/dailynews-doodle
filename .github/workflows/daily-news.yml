@@ -6,6 +6,9 @@ on:
     - cron: '0 1 * * *'
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   collect-news:
     runs-on: ubuntu-latest
@@ -42,7 +45,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Send email notification
-        uses: dawidd6/action-send-mail@v4
+        uses: dawidd6/action-send-mail@v3.7.3
         with:
           server_address: smtp.gmail.com
           server_port: 465
