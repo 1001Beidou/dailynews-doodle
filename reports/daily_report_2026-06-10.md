@@ -19,75 +19,75 @@
 
 ### 1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
-**❤️ 1902 likes | 💬 1489 comments**
+**❤️ 1998 likes | 💬 1547 comments**
 
 ### 2. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
 
-**❤️ 714 likes | 💬 125 comments**
+**❤️ 729 likes | 💬 128 comments**
 
 ### 3. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 
-**❤️ 607 likes | 💬 296 comments**
+**❤️ 681 likes | 💬 341 comments**
 
 ### 4. [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 
-**❤️ 496 likes | 💬 205 comments**
+**❤️ 560 likes | 💬 220 comments**
 
 ### 5. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 
-**❤️ 354 likes | 💬 135 comments**
+**❤️ 496 likes | 💬 177 comments**
 
 ### 6. [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 
-**❤️ 352 likes | 💬 292 comments**
+**❤️ 372 likes | 💬 308 comments**
 
 ### 7. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 
-**❤️ 241 likes | 💬 76 comments**
+**❤️ 279 likes | 💬 94 comments**
 
-### 8. [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
+### 8. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
-**❤️ 189 likes | 💬 171 comments**
+**❤️ 269 likes | 💬 164 comments**
 
-### 9. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+### 9. [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 
-**❤️ 178 likes | 💬 24 comments**
+**❤️ 221 likes | 💬 188 comments**
 
-### 10. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
+### 10. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 
-**❤️ 171 likes | 💬 25 comments**
+**❤️ 194 likes | 💬 29 comments**
 
-### 11. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+### 11. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
 
-**❤️ 151 likes | 💬 70 comments**
+**❤️ 176 likes | 💬 26 comments**
 
-### 12. [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
+### 12. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 
-**❤️ 99 likes | 💬 13 comments**
+**❤️ 113 likes | 💬 47 comments**
 
-### 13. [Grit: Rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
+### 13. [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 
-**❤️ 96 likes | 💬 133 comments**
+**❤️ 108 likes | 💬 13 comments**
 
-### 14. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+### 14. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
 
-**❤️ 89 likes | 💬 30 comments**
+**❤️ 86 likes | 💬 6 comments**
 
-### 15. [Exif Smuggling (2025)](https://github.com/signalblur/exifsmugglingpoc)
+### 15. [Lies we tell ourselves about email addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
 
-**❤️ 70 likes | 💬 23 comments**
+**❤️ 83 likes | 💬 54 comments**
 
-### 16. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
+### 16. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
 
-**❤️ 66 likes | 💬 4 comments**
+**❤️ 74 likes | 💬 5 comments**
 
-### 17. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
+### 17. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
 
-**❤️ 46 likes | 💬 3 comments**
+**❤️ 69 likes | 💬 34 comments**
 
-### 18. [Launch HN: Transload (YC P26) – Measuring freight items with CCTV](https://news.ycombinator.com/item?id=48463273)
+### 18. [Surprise, Pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
 
-**❤️ 38 likes | 💬 15 comments**
+**❤️ 57 likes | 💬 9 comments**
 
 ## ⭐ GitHub Trending
 
@@ -95,16 +95,16 @@
 
 > Open-source skill and harness for generating production ready Lottie animations with codex/claude code
 
-**⭐ 1604 stars | 🔤 TypeScript**
+**⭐ 1666 stars | 🔤 TypeScript**
 
 ### 2. [noop](https://github.com/NoopApp/noop)
 
 > Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 
-**⭐ 1098 stars | 🔤 Swift**
+**⭐ 1151 stars | 🔤 Swift**
 
 ---
 
 ✨ 由 [Daily Tech News Aggregator](https://github.com/1001Beidou/dailynews-doodle) 生成
 
-生成时间: 2026-06-10 04:07:20
+生成时间: 2026-06-10 05:52:55
