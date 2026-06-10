@@ -19,75 +19,75 @@
 
 ### 1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
-**❤️ 2007 likes | 💬 1550 comments**
+**❤️ 2116 likes | 💬 1642 comments**
 
-### 2. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
+### 2. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 
-**❤️ 730 likes | 💬 131 comments**
+**❤️ 747 likes | 💬 364 comments**
 
-### 3. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
+### 3. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
 
-**❤️ 687 likes | 💬 342 comments**
+**❤️ 745 likes | 💬 133 comments**
 
-### 4. [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+### 4. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 
-**❤️ 566 likes | 💬 222 comments**
+**❤️ 619 likes | 💬 233 comments**
 
-### 5. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+### 5. [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 
-**❤️ 512 likes | 💬 181 comments**
+**❤️ 610 likes | 💬 232 comments**
 
 ### 6. [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 
-**❤️ 374 likes | 💬 309 comments**
+**❤️ 391 likes | 💬 328 comments**
 
-### 7. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+### 7. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
-**❤️ 287 likes | 💬 97 comments**
+**❤️ 390 likes | 💬 222 comments**
 
-### 8. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+### 8. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 
-**❤️ 285 likes | 💬 168 comments**
+**❤️ 327 likes | 💬 115 comments**
 
 ### 9. [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 
-**❤️ 223 likes | 💬 189 comments**
+**❤️ 245 likes | 💬 209 comments**
 
 ### 10. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 
-**❤️ 197 likes | 💬 29 comments**
+**❤️ 213 likes | 💬 30 comments**
 
-### 11. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
+### 11. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 
-**❤️ 176 likes | 💬 26 comments**
+**❤️ 139 likes | 💬 60 comments**
 
-### 12. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+### 12. [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 
-**❤️ 119 likes | 💬 50 comments**
+**❤️ 112 likes | 💬 13 comments**
 
-### 13. [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
+### 13. [Surprise, Pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
 
-**❤️ 108 likes | 💬 13 comments**
+**❤️ 105 likes | 💬 32 comments**
 
 ### 14. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
 
-**❤️ 88 likes | 💬 7 comments**
+**❤️ 103 likes | 💬 10 comments**
 
 ### 15. [Lies we tell ourselves about email addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
 
-**❤️ 84 likes | 💬 55 comments**
+**❤️ 100 likes | 💬 68 comments**
 
-### 16. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
+### 16. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
 
-**❤️ 74 likes | 💬 6 comments**
+**❤️ 88 likes | 💬 48 comments**
 
-### 17. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+### 17. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
 
-**❤️ 71 likes | 💬 35 comments**
+**❤️ 84 likes | 💬 9 comments**
 
-### 18. [Surprise, Pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
+### 18. [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
 
-**❤️ 62 likes | 💬 10 comments**
+**❤️ 68 likes | 💬 14 comments**
 
 ## ⭐ GitHub Trending
 
@@ -95,16 +95,16 @@
 
 > Open-source skill and harness for generating production ready Lottie animations with codex/claude code
 
-**⭐ 1670 stars | 🔤 TypeScript**
+**⭐ 1741 stars | 🔤 TypeScript**
 
 ### 2. [noop](https://github.com/NoopApp/noop)
 
 > Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 
-**⭐ 1156 stars | 🔤 Swift**
+**⭐ 1217 stars | 🔤 Swift**
 
 ---
 
 ✨ 由 [Daily Tech News Aggregator](https://github.com/1001Beidou/dailynews-doodle) 生成
 
-生成时间: 2026-06-10 06:00:27
+生成时间: 2026-06-10 07:33:05
