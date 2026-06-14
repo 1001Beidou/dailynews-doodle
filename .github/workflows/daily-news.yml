@@ -51,7 +51,6 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "📰 Daily Tech News - $(date +%Y-%m-%d)"
           to: ${{ secrets.EMAIL_TO }}
-          from: "${{ secrets.EMAIL_USERNAME }}"
           body: |
             早上好！🌅
             
