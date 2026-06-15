@@ -1,11 +1,9 @@
 name: Daily Tech News Aggregator
-
 on:
   schedule:
     # 北京时间早上9点 = UTC 时间凌晨1点
     - cron: '0 1 * * *'
   workflow_dispatch:
-
 env:
 jobs:
   collect-news:
